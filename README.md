@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Mahendra Nath
--  I’m interested in Web development and competetive programming.
 -  I’m currently pursing B.Tech in ECE.
-- Codeforces profile Mahendra_Nath
+-  I’m interested in Web development and competetive programming.
+- Codeforces profile [link](https://codeforces.com/profile/Mahendra_Nath)
 
-- for Collaboration, mail to mahendran.ug22.ec@nitp.ac.in
+- [Contact Me](mahendrasiddh2004@gmail.com)
+
 
 <!---
 MahendraSiddh/MahendraSiddh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
