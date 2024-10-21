@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahendraSiddh
+- 👋 Hi, I’m Mahendra Nath
 -  I’m interested in Web development and competetive programming.
 -  I’m currently pursing B.Tech in ECE.
 - Codeforces profile Mahendra_Nath
