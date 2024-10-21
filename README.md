@@ -3,7 +3,7 @@
 -  I’m interested in Web development and competetive programming.
 - Codeforces profile [link](https://codeforces.com/profile/Mahendra_Nath)
 
-- [Contact Me](mahendrasiddh2004@gmail.com)
+- [Contact Me](mailto:mahendrasiddh2004@gmail.com)
 
 
 <!---
